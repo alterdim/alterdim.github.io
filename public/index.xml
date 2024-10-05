@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>http://localhost:1313/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/docs/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/test/</guid><description>&lt;p>testst&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>L'envol des Ramjir</title><link>http://localhost:1313/</link><description>Recent content on L'envol des Ramjir</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/docs/divinit%C3%A9s/douze-divins/kaltador/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/divinit%C3%A9s/douze-divins/kaltador/</guid><description>&lt;h1 id="kaltador-murmevent">
+ Kal&amp;rsquo;Tador Murmevent
+ &lt;a class="anchor" href="#kaltador-murmevent">#&lt;/a>
+&lt;/h1></description></item><item><title/><link>http://localhost:1313/docs/divinit%C3%A9s/marika/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/divinit%C3%A9s/marika/</guid><description>&lt;h1 id="sainte-marika">
+ Sainte Marika
+ &lt;a class="anchor" href="#sainte-marika">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;img src="http://localhost:1313/images/marika.png" alt="image" title="Title"/>&lt;/p>
+&lt;p>Marika est l’impératrice ayant unifié tout Myra. Elle fut béatifiée à son décès et le calendrier impérial créé en son honneur, le premier jour correspondant à sa naissance.&lt;/p>
+&lt;p>Les Douze lui apparaissent dans des songes prophétiques pendant son enfance, alarmant la jeune fille des famines qui se produiront si les terres restent éclatées en tribus. Ils lui murmurent d&amp;rsquo;aller chercher les Dragons, lui conférant le pouvoir unique de communiquer en langue Draconique.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/armure-magique/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/armure-magique/</guid><description>&lt;h1 id="armure-magique">
+ Armure magique
+ &lt;a class="anchor" href="#armure-magique">#&lt;/a>
+&lt;/h1>
+&lt;p>Niveaux de sort : &lt;em>3/5&lt;/em> &lt;br>
+Portée : &lt;em>Toucher&lt;/em> &lt;br>
+Durée : &lt;em>10 minutes&lt;/em>&lt;br>
+Régent : &lt;em>Sel&lt;/em> &lt;br>
+Type d&amp;rsquo;action : &lt;em>Action majeure&lt;/em>&lt;/p>
+&lt;p>Une tenue ou une armure gagne &lt;em>+3 RES&lt;/em> contre les attaques élémentaires ou magiques.&lt;br>
+&lt;strong>Arcane&lt;/strong> : Au niveau 5, le lanceur peut choisir un deuxième type de résistance à augmenter entre abyssal et saint.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/grande-matrice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/grande-matrice/</guid><description>&lt;h1 id="grande-matrice">
+ Grande matrice
+ &lt;a class="anchor" href="#grande-matrice">#&lt;/a>
+&lt;/h1>
+&lt;p>Niveaux de sort : &lt;em>7/10&lt;/em>&lt;br>
+Portée : &lt;em>Toucher&lt;/em>&lt;br>
+Durée : &lt;em>Permanent&lt;/em>&lt;br>
+Régent : &lt;em>Mana&lt;/em>&lt;br>
+Type d&amp;rsquo;action : &lt;em>Action majeure&lt;/em>&lt;br>
+Contre-coup : &lt;em>1 point de fatigue, utilisable tous les mois&lt;/em>&lt;/p>
+&lt;p>Une tenue ou une armure gagne &lt;em>+4 RES&lt;/em> contre un type de dégât.&lt;br>
+&lt;strong>Arcane&lt;/strong> : Au niveau 10, toutes les résistances augmentent.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/pr%C3%A9servation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/liste-des-sorts/pr%C3%A9servation/pr%C3%A9servation/</guid><description>&lt;h1 id="riposte-du-sage">
+ Riposte du sage
+ &lt;a class="anchor" href="#riposte-du-sage">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;em>Niveaux de sort : 2/4/8&lt;/em> &lt;br>
+&lt;em>Soi, Temporaire, Sel&lt;/em> &lt;br>
+Manifeste une barrière magique pyramidale d&amp;rsquo;un mètre carré de diamètre aux pieds du lanceur qui peut résister à l&amp;rsquo;équivalent d&amp;rsquo;une &lt;em>grande force&lt;/em>. La barrière dure un tour ou six secondes. Si elle se dissipe naturellement et que l&amp;rsquo;utilisateur a une main de libre, il peut donner un coup d&amp;rsquo;épée de sel qui inflige &lt;em>2d6&lt;/em> points de dégâts.
+Les personnages n&amp;rsquo;ayant aucune affinité avec la magie ne sont pas capable de la percevoir.
+Les coups contendants qui visent à briser la barrière mais échouent &lt;em>sonnent&lt;/em> leur lanceur pour un tour.
+Si la barrière est brisée, l&amp;rsquo;utilisateur est &lt;em>sonné&lt;/em> pendant son prochain tour. Si elle est brisée par une &lt;em>force gargantuesque ou plus&lt;/em>, une [[réaction magique autocatalytique]] se produit. &lt;br>
+&lt;strong>Arcane&lt;/strong> : Au niveau 4, le sort peut résister à une &lt;em>force majeure&lt;/em> et l&amp;rsquo;épée inflige &lt;em>2d6+1d4&lt;/em> dégâts de maa. Au niveau 8, une &lt;em>force gargantuesque&lt;/em> et l&amp;rsquo;épée inflige &lt;em>5d6&lt;/em>.&lt;/p></description></item><item><title>Croisé</title><link>http://localhost:1313/docs/classes/croise/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/classes/croise/</guid><description>&lt;h1 id="croisé">
+ Croisé
+ &lt;a class="anchor" href="#crois%c3%a9">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;img src="http://localhost:1313/images/croise.webp" alt="image" title="Title"/>&lt;/p>
+&lt;p>Dans le royaume de Myra, les Croisés ont toujours occupé une place centrale. Depuis les temps anciens, bien avant que les premières cités ne soient érigées, ces guerriers errants protégaient les campements et détruisaient les forces obscures grâce à leurs armes bénies.&lt;/p>
+&lt;p>Chaque croisé effectue un serment en tatouant des runes sur son corps selon des traditions anciennes. Aujourd&amp;rsquo;hui, la plupart des croisés servent Marika mais on trouve encore d&amp;rsquo;irréductibles protecteurs d&amp;rsquo;Ygg, un des Douze.&lt;/p></description></item></channel></rss>
